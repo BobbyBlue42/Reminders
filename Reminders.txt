@@ -1,0 +1,9 @@
+## Title: Reminders
+## Description: This addon allows you to set reminders for yourself, tailored around your game experience.
+## Author: |c0000FFBobby Blue|r
+## Version: 1.0
+## APIVersion: 100017
+## SavedVariables: RemindersSaveData
+
+Reminders.lua
+AlarmStorage.lua
